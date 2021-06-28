@@ -7,8 +7,8 @@ This dataset is a subset of the original dataset. The aim of processing this dat
 The processed dataset is available as:
 Dataset Type| File Name
 --- | ---
-Original dataset as csv|  tapaco_huggingface.csv
-Only Input text and target text|  tapaco_paraphrases_dataset.csv
+Original dataset as csv|  [tapaco_huggingface.csv](https://github.com/hetpandya/paraphrase-datasets-pretrained-models/blob/main/datasets/tapaco/tapaco_huggingface.csv)
+Only input text and target text|  [tapaco_paraphrases_dataset.csv](https://github.com/hetpandya/paraphrase-datasets-pretrained-models/blob/main/datasets/tapaco/tapaco_paraphrases_dataset.csv)
 
 # Steps to reproduce the dataset
 
