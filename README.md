@@ -19,7 +19,7 @@ t5-base| [tapaco](https://github.com/hetpandya/paraphrase-datasets-pretrained-mo
 
 ### T5 model usage example
 
-**Install dependencies using**
+**Install dependencies using:**
 
 ```
 pip install transformers sentencepiece
