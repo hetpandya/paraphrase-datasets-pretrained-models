@@ -1,5 +1,5 @@
 # Paraphrase datasets and pretrained models
-This repository consists of a collection of preprocessed datasets and pretrained models for training models to generate paraphrases.
+This repository consists of a collection of preprocessed datasets for training models and pretrained models to generate paraphrases.
 
 ## Datasets
 Each dataset has a `README` that describes the dataset, its source and preprocessed format. The datasets are stored in the [datasets](https://github.com/hetpandya/paraphrase-datasets-pretrained-models/tree/main/datasets) directory.
