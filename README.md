@@ -17,6 +17,9 @@ Model| Dataset | Location
 t5-small| [tapaco](https://github.com/hetpandya/paraphrase-datasets-pretrained-models/tree/main/datasets/tapaco) | [huggingface](https://huggingface.co/hetpandya/t5-small-tapaco)
 t5-base| [tapaco](https://github.com/hetpandya/paraphrase-datasets-pretrained-models/tree/main/datasets/tapaco) | [huggingface](https://huggingface.co/hetpandya/t5-base-tapaco)
 
+### Model Training
+Examples for training models on the datasets can be found in the [examples](https://github.com/hetpandya/paraphrase-datasets-pretrained-models/tree/main/examples) directory.
+
 ### T5 model usage example
 
 **Install dependencies using:**
