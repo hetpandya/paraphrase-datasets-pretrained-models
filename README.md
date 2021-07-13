@@ -15,6 +15,7 @@ List of models trained on various datasets for paraphrase generation.
 Model| Dataset | Location
 --- | --- | --- |
 t5-small| [tapaco](https://github.com/hetpandya/paraphrase-datasets-pretrained-models/tree/main/datasets/tapaco) | [huggingface](https://huggingface.co/hetpandya/t5-small-tapaco)
+t5-small| [Quora Question Pairs](https://quoradata.quora.com/First-Quora-Dataset-Release-Question-Pairs) | [huggingface](https://huggingface.co/hetpandya/t5-small-quora)
 t5-base| [tapaco](https://github.com/hetpandya/paraphrase-datasets-pretrained-models/tree/main/datasets/tapaco) | [huggingface](https://huggingface.co/hetpandya/t5-base-tapaco)
 
 ### Model Training
